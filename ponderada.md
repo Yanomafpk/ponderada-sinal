@@ -20,7 +20,7 @@ Resistores:
 
 * Para limitar a corrente e proteger os LEDs de queima, resistores são conectados em série com cada LED. A resistência adequada depende das especificações dos LEDs e da tensão fornecida pelo microcontrolador.
 
-Link: 
+https://github.com/user-attachments/assets/57759075-17f4-42e2-877e-6ce554e0ae5e
 
 Imagem e vídeo que mostra isso:
 
@@ -30,6 +30,11 @@ Imagem e vídeo que mostra isso:
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div></br>
 
+<div align="center">
+<sub>Figura</sub>
+<img src="" width="100%" >
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div></br>
 # Template Avaliação Pares
 
 ### Avaliador: Nome do Avaliador
